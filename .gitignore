@@ -1,0 +1,11 @@
+# Helm packaged charts
+*.tgz
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
